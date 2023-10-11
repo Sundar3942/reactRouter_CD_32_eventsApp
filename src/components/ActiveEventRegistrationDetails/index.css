@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.registration-section {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+.registration-default-description {
+  font-size: 20px;
+  color: #64748b;
+}
+.registered-image {
+  width: 50px;
+}
+.registered-para {
+  font-size: 22px;
+  color: #4e5b6c;
+}
+.register-btn {
+  background-color: #0967d2;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  width: 100%;
+  cursor: pointer;
+}
+.yet-to-register-image {
+  width: 80%;
+}
+.yet-to-register-para {
+  font-size: 14px;
+  color: #4e5b6c;
+}
+.registration-closed-image {
+  width: 60%;
+}

@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.events-section {
+  width: 50vw;
+  min-height: 100vh;
+  max-height: 100%;
+  padding: 25px;
+  background-color: #323f4b;
+  color: white;
+}
+.events-container {
+  width: 100%;
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  padding: 0;
+}
+.registration-status-section {
+  width: 50vw;
+  height: 100vh;
+}
+.d-flex {
+  display: flex;
+}

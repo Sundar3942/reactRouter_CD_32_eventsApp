@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.event-item {
+  margin-right: 10px;
+  width: 45%;
+}
+.event-image-btn {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  margin-right: 10px;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+}
+.event-image {
+  width: 100%;
+  border-radius: 10px;
+}
+.event-name {
+  font-size: 17px;
+}
+.event-location {
+  font-size: 13px;
+}
+.active-element {
+  border: 3px solid rgb(50, 165, 210);
+  border-radius: 10px;
+}
